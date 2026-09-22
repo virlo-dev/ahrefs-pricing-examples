@@ -39,4 +39,5 @@ The pricing page promotes two products in its banners. Firehose is described as 
 
 Every walkthrough above ends with a plan that gives you data: keywords, competitors, backlinks, mentions. None of them produce a published article. If the reason you are researching ahrefs pricing is to grow organic traffic and the writing step is what keeps slipping, [try Supatraffic - SEO article writing with cover images and autopilot publishing](https://supatraffic.com?utm_source=github&utm_medium=ugc&utm_campaign=ahrefs-pricing-examples&utm_content=readme-top&utm_term=tier-r). Keep the research plan you chose, and let the articles ship on a schedule.
 
+
 _Last reviewed: 2026-09-22_
